@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Using SIGNALS and management with processes.
 
-FILE="/var/run/holbertonscript.pid"
+FILE="/var/run/myscript.pid"
 
 function clean_up()
 {
